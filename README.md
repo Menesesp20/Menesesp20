@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Menesesp20
 - 👀 I’m interested in Analytics
-- 🌱 I’m currently learning Big Data Applied to Football
+- 🌱 Passionate for Python
 - 💞️ I’m looking to collaborate on Sports
 - 📫 How to reach me menesesp20 on social media
 
