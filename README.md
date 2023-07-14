@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Menesesp20
 - 👀 I’m interested in Analytics
 - 🌱 Passionate for Python
-- 💞️ I’m looking to collaborate on Sports
 - 📫 How to reach me menesesp20 on social media
 
 <!---
